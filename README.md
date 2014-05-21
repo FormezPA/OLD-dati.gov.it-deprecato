@@ -27,10 +27,10 @@ contiene la sezione della configurazione di apache relativa alla macchina che os
 dati per accedere ai due sistemi
 --------------------------------
 1) accesso a drupal
-	http://datigovit.drupal/
-	usr: admin
-	pwd: datigovit
-	tutti gli account hanno la password: datigovit
+        http://datigovit.drupal/
+        usr: admin
+        pwd: datigovit
+        tutti gli account hanno la password: datigovit
 
 2) accesso alla macchina ckan e ai vari servizi attivi
 
