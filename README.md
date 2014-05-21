@@ -3,12 +3,12 @@ dati.gov.it
 
 drupal e ckan utilizzati su dati.gov.it
 
-premessa:
-=========
+premessa
+--------
 il sistema prevede l'installazione di due macchine, una per drupal e una per ckan
 
-contenuto della distribuzione:
-==============================
+contenuto della distribuzione
+-----------------------------
 
 1) questo file
 	
