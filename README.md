@@ -35,14 +35,14 @@ contenuto della distribuzione
 
 Dati per accedere ai due sistemi
 --------------------------------
-- accesso a drupal
+1) accesso a drupal
 	http://datigovit.drupal/
 	usr: admin
 	pwd: datigovit
 	tutti gli account hanno la password: datigovit
 
 
-- accesso alla macchina ckan e ai vari servizi attivi
+2) accesso alla macchina ckan e ai vari servizi attivi
 
 	servizio/porta  username   password
 	==============  =========  =========
