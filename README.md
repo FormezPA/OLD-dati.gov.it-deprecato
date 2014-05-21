@@ -46,6 +46,6 @@ Dati per accedere ai due sistemi
 	login admin su ckan
 	http://datigovit.ckan/catalog/user/login
 	sezione di amministrazione
-	http://datigovit.ckan/catalog/ckan=admin/config
+	http://datigovit.ckan/catalog/ckan-admin/config
 	username: admin_formez
 	password: datigovit
