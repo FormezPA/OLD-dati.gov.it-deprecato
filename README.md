@@ -24,7 +24,7 @@ contiene i nomi e i numeri di ip provvisori utilizzati per le due macchine (la m
 5) httpd.conf
 contiene la sezione della configurazione di apache relativa alla macchina che ospita drupal
 
-Dati per accedere ai due sistemi
+dati per accedere ai due sistemi
 --------------------------------
 1) accesso a drupal
 	http://datigovit.drupal/
