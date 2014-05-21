@@ -40,18 +40,15 @@ Dati per accedere ai due sistemi
 
 2) accesso alla macchina ckan e ai vari servizi attivi
 
-servizio/porta  username   password
-==============  =========  =========
-ssh/9378        formez     datigovit
-ssh/9378        ckan       datigovit
-postgres	postgres
-	
-accesso a ckan anonimo in consultazione
-http://datigovit.ckan/catalog/
+	servizio/porta  username   password
+	==============  =========  =========
+	ssh/9378        formez     datigovit
+	ssh/9378        ckan       datigovit
+	postgres	postgres
 
-login admin su ckan
-http://datigovit.ckan/catalog/user/login
-sezione di amministrazione
-http://datigovit.ckan/catalog/ckan=admin/config
-username: admin_formez
-password: datigovit
+	accesso a ckan anonimo in consultazione http://datigovit.ckan/catalog/
+
+	login admin su ckan http://datigovit.ckan/catalog/user/login
+	sezione di amministrazione http://datigovit.ckan/catalog/ckan=admin/config
+	username: admin_formez
+	password: datigovit
