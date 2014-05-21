@@ -1,13 +1,16 @@
 dati.gov.it
 ===========
+
 drupal e ckan utilizzati su dati.gov.it
 
 premessa
 --------
+
 il sistema prevede l'installazione di due macchine, una per drupal e una per ckan.
 
 contenuto della distribuzione
 -----------------------------
+
 1) questo file
 	
 2) datigovit-drupal.tar.gz
@@ -26,7 +29,9 @@ contiene la sezione della configurazione di apache relativa alla macchina che os
 
 dati per accedere ai due sistemi
 --------------------------------
+
 1) accesso a drupal
+
         http://datigovit.drupal/
         usr: admin
         pwd: datigovit
