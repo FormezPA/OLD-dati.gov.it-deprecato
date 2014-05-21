@@ -33,8 +33,8 @@ contenuto della distribuzione
 	che ospita drupal
 
 
-Dati per accedere ai due sistemi:
-=================================
+Dati per accedere ai due sistemi
+--------------------------------
 1) accesso a drupal
 	http://datigovit.drupal/
 	usr: admin
