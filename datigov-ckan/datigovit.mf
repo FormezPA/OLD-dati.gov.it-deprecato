@@ -1,2 +1,0 @@
-SHA1(datigovit.ovf)= 4a2d505a9d8ee6073f9ef8ca11262d75cc436ade
-SHA1(datigovit-disk1.vmdk)= 08da3d3f497319c0640044b2085f88a570f7da40
