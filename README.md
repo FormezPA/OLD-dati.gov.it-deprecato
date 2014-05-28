@@ -1,6 +1,7 @@
 dati.gov.it
 ===========
-	drupal e ckan utilizzati su dati.gov.it
+	drupal e ckan utilizzati su dati.gov.it 
+	(installazione di test)
 
 premessa
 --------
