@@ -16,7 +16,8 @@ contenuto della distribuzione
 
 	il file compresso (prodotto con drush) contiene la copia di drupal
 	e il file datigovit.sql (il dump del database mysql).
-	i requisiti della macchina in cui deve girare questa installazione sono gli stessi indicati per drupal 7
+	i requisiti della macchina in cui deve girare questa installazione
+	sono indicati su drupal 7 https://drupal.org/requirements
 
 3) **hosts**
 
