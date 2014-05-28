@@ -13,8 +13,8 @@ contenuto della distribuzione
 	
 2) **datigovit-drupal.tar.gz**
 
-	il file compresso contiene il folder con la copia di drupal utilizzata su dati.gov.it
-	e il file datigovit.sql che contiene il dump del database mysql.
+	il file compresso (prodotto con drush) contiene la copia di drupal
+	e il file datigovit.sql (il dump del database mysql).
 	i requisiti della macchina in cui deve girare questa installazione sono gli stessi indicati per drupal 7
 
 3) **hosts**
