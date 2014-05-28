@@ -31,7 +31,8 @@ contenuto della distribuzione
 	La macchina virtuale ckan, prodotta con vmware, in formato aperto.
 	il file è suddiviso in 9 porzioni per un totale di circa 6GB.
 	Per riunire tutte le porzioni in un unico file si consiglia l'uso di 7zip http://www.7-zip.org/
-	al termine dell'operazione verrà prodotto il file datigovit-ckan.ova
+	al termine dell'operazione verrà prodotto il file *datigovit-ckan.ova*
+	La macchina è una Ubuntu 13.04 64bit
 
 Le 9 porzioni del file sono disponibili su:
 
