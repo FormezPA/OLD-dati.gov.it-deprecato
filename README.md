@@ -42,6 +42,7 @@ Le 9 porzioni del file sono disponibili su:
 	9) https://mega.co.nz/#!mQghULSQ!609PTc3IPrJRlaQcGrIEIerawmqB1tEpm86DYbN9DhA
 
 oppure in alternativa, su:
+
 	1) http://1drv.ms/1jXEbNy
 	2) http://1drv.ms/1jXEwA4
 	3) http://1drv.ms/1hurFQ5
@@ -53,6 +54,7 @@ oppure in alternativa, su:
 	9) http://1drv.ms/1husl8h
 
 per ricostruire il file datigovit-ckan.ova sono necessarie tutte le 9 porzioni.
+
 
 dati per accedere ai due sistemi
 --------------------------------
