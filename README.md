@@ -55,7 +55,6 @@ oppure in alternativa, su:
 
 per ricostruire il file datigovit-ckan.ova sono necessarie tutte le 9 porzioni.
 
-
 dati per accedere ai due sistemi
 --------------------------------
 
