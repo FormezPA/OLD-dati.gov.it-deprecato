@@ -14,24 +14,23 @@ contenuto della distribuzione
 2) **datigovit-drupal.tar.gz**
 
 	il file compresso contiene il folder con la copia di drupal utilizzata su dati.gov.it
-	e il file *datigovit.sql* che contiene il dump del database mysql.
+	e il file **datigovit.sql** che contiene il dump del database mysql.
 	i requisiti della macchina in cui deve girare questa installazione sono gli stessi indicati per drupal 7
 
 3) **hosts**
 
-	contiene i nomi e i numeri di ip provvisori utilizzati per le due macchine (la macchina drupal e quella ckan)
+	contiene i nomi e i numeri di ip provvisori utilizzati per le due macchine
 	
 4) **httpd.conf**
 
 	contiene la sezione della configurazione di apache relativa alla macchina che ospita drupal
-
 
 5) **datigovit-ckan.ova**
 
 	La macchina virtuale ckan, prodotta con vmware, in formato aperto.
 	il file è suddiviso in 9 porzioni per un totale di circa 6GB.
 	Per riunire tutte le porzioni in un unico file si consiglia l'uso di 7zip http://www.7-zip.org/
-	al termine dell'operazione verrà prodotto il file *datigovit-ckan.ova*
+	al termine dell'operazione verrà prodotto il file **datigovit-ckan.ova**
 	La macchina è una Ubuntu 13.04 64bit
 
 Le 9 porzioni del file sono disponibili su:
