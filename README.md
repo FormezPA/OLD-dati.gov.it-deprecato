@@ -17,7 +17,7 @@ contenuto della distribuzione
 	il file compresso (prodotto con drush) contiene la copia di drupal
 	e il file datigovit.sql (il dump del database mysql).
 	i requisiti della macchina in cui deve girare questa installazione
-	sono indicati su drupal 7 https://drupal.org/requirements
+	sono indicati su drupal 7 [link](https://drupal.org/requirements)
 
 3) **hosts**
 
@@ -31,33 +31,33 @@ contenuto della distribuzione
 
 	La macchina virtuale ckan, prodotta con vmware, in formato aperto.
 	il file è suddiviso in 9 porzioni per un totale di circa 6GB.
-	Per riunire tutte le porzioni in un unico file si consiglia l'uso di 7zip http://www.7-zip.org/
+	Per riunire tutte le porzioni in un unico file si consiglia l'uso di 7zip [link](http://www.7-zip.org/)
 	al termine dell'operazione verrà prodotto il file datigovit-ckan.ova
 	La macchina è una Ubuntu 13.04 64bit
 
 Le 9 porzioni del file sono disponibili su:
 
-	1) https://mega.co.nz/#!DE4ngSKL!Pk1qU1fq_GxjSfF8RI1NSDO7C88PVua-NOo2GlpSK-M
-	2) https://mega.co.nz/#!CA4SgZpA!kqGHqr5iURIMvaW8EF7IKdEU3S_EiUl7OT7LeyipKzM
-	3) https://mega.co.nz/#!6Yw1laxI!s9puCPMInSNaqON7-BthNfzpldAxMddUakHu0AwFDjM
-	4) https://mega.co.nz/#!bYhnzRBT!4eCchqFeUW6MOHb4uOaRRMFaDhcb2SvzJfDZKCMxkTY
-	5) https://mega.co.nz/#!XZIx0QKA!6BFcyJ-LtPBlCcJJv__IcDgyp-jmnC2TrAS7rCtnWKM
-	6) https://mega.co.nz/#!WA5BVCbD!E8SAlOOzGL57vZi4stEYJr91sUM_VtIMH6Z_-mbHjGc
-	7) https://mega.co.nz/#!SUJRUJjZ!r4eFVjA4x9HaJ0T-D1PwQNqx1xD2AwzAHcJaYHAJB3U
-	8) https://mega.co.nz/#!CVB1mSqa!WfnpSWd7evrgY6gbx1K4fFSLFFCCbuCtcjMCcp5MDuI
-	9) https://mega.co.nz/#!mQghULSQ!609PTc3IPrJRlaQcGrIEIerawmqB1tEpm86DYbN9DhA
+	1) [link](https://mega.co.nz/#!DE4ngSKL!Pk1qU1fq_GxjSfF8RI1NSDO7C88PVua-NOo2GlpSK-M)
+	2) [link](https://mega.co.nz/#!CA4SgZpA!kqGHqr5iURIMvaW8EF7IKdEU3S_EiUl7OT7LeyipKzM)
+	3) [link](https://mega.co.nz/#!6Yw1laxI!s9puCPMInSNaqON7-BthNfzpldAxMddUakHu0AwFDjM)
+	4) [link](https://mega.co.nz/#!bYhnzRBT!4eCchqFeUW6MOHb4uOaRRMFaDhcb2SvzJfDZKCMxkTY)
+	5) [link](https://mega.co.nz/#!XZIx0QKA!6BFcyJ-LtPBlCcJJv__IcDgyp-jmnC2TrAS7rCtnWKM)
+	6) [link](https://mega.co.nz/#!WA5BVCbD!E8SAlOOzGL57vZi4stEYJr91sUM_VtIMH6Z_-mbHjGc)
+	7) [link](https://mega.co.nz/#!SUJRUJjZ!r4eFVjA4x9HaJ0T-D1PwQNqx1xD2AwzAHcJaYHAJB3U)
+	8) [link](https://mega.co.nz/#!CVB1mSqa!WfnpSWd7evrgY6gbx1K4fFSLFFCCbuCtcjMCcp5MDuI)
+	9) [link](https://mega.co.nz/#!mQghULSQ!609PTc3IPrJRlaQcGrIEIerawmqB1tEpm86DYbN9DhA)
 
 oppure in alternativa, su:
 
-	1) http://1drv.ms/1jXEbNy
-	2) http://1drv.ms/1jXEwA4
-	3) http://1drv.ms/1hurFQ5
-	4) http://1drv.ms/1hurLar
-	5) http://1drv.ms/1hurPXJ
-	6) http://1drv.ms/1hus4SC
-	7) http://1drv.ms/1husdFH
-	8) http://1drv.ms/1husiZU
-	9) http://1drv.ms/1husl8h
+	1) [link](http://1drv.ms/1jXEbNy)
+	2) [link](http://1drv.ms/1jXEwA4)
+	3) [link](http://1drv.ms/1hurFQ5)
+	4) [link](http://1drv.ms/1hurLar)
+	5) [link](http://1drv.ms/1hurPXJ)
+	6) [link](http://1drv.ms/1hus4SC)
+	7) [link](http://1drv.ms/1husdFH)
+	8) [link](http://1drv.ms/1husiZU)
+	9) [link](http://1drv.ms/1husl8h)
 
 per ricostruire il file datigovit-ckan.ova sono necessarie tutte le 9 porzioni.
 
