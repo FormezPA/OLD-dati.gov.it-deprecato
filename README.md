@@ -71,12 +71,13 @@ pwd: datigovit<br/>
 tutti gli account hanno la password: datigovit<br/>
 
 - accesso alla macchina ckan e ai vari servizi attivi
-servizio/porta  username   password<br/>
-ssh/9378        formez     datigovit<br/>
-ssh/9378        ckan       datigovit<br/>
-postgres        postgres<br/>
+<pre>servizio/porta  username   password
+--------------  --------   --------
+ssh/9378        formez     datigovit
+ssh/9378        ckan       datigovit
+postgres        postgres</pre>
 
--accesso a ckan anonimo in consultazione<br/>
+- accesso a ckan anonimo in consultazione<br/>
 http://datigovit.ckan/catalog/<br/>
 login admin su ckan<br/>
 http://datigovit.ckan/catalog/user/login<br/>
