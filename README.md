@@ -1,7 +1,8 @@
 dati.gov.it
 ===========
 drupal e ckan utilizzati su [http://www.dati.gov.it](http://www.dati.gov.it)<br/> 
-(installazione di test)
+(installazione di test)<br/> 
+Deprecata, si tratta di una versione ampiamente superata
 
 premessa
 --------
